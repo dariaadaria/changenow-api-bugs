@@ -1,2 +1,2 @@
 # changenow-api-bugs
-We're ready to make ChangeNOW API better. Leave your bug reports there.
+We're ready to make ChangeNOW API better. You can submit new bugs and join discussions there.
